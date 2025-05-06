@@ -1,2 +1,2 @@
 # Taller Multi Threading
-## Elaborado por: Tomas Barrios, Rafael Salcedo
+## Elaborado por: Tomas Barrios, Rafael Salcedo, Fermin Escalona
